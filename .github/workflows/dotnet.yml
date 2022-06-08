@@ -27,11 +27,6 @@ jobs:
         run: |
           dotnet pack --configuration Release
 
-      - uses: actions/upload-artifact@v1
-        with:
-          name: artifacts
-          path: artifacts
-
       - name: Publish to GitHub Packages
         run: |
           dotnet nuget add source "https://nuget.pkg.github.com/seiyainoueM/index.json" -n "github" -u <user> -p ${{secrets.GH_PACKAGES_PAT}} --store-password-in-clear-text
