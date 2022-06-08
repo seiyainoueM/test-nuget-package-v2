@@ -29,4 +29,4 @@ jobs:
 
       - name: Publish to GitHub Packages
         run: |
-          dotnet nuget push "bin/Release/*.nupkg" --api-key ${{secrets.GH_PACKAGES_PAT}} --source "github" --skip-duplicate
+          dotnet nuget push "bin/Release/*.nupkg" --source "github"
