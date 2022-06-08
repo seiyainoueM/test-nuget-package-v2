@@ -31,3 +31,9 @@ jobs:
         run: |
           dotnet nuget add source "https://nuget.pkg.github.com/seiyainoueM/index.json" -n "github" -u seiyainoueM -p ${{secrets.GH_PACKAGES_PAT}} --store-password-in-clear-text
           dotnet nuget push "bin/Release/*.nupkg" --api-key ${{secrets.GH_PACKAGES_PAT}} --source "github" --skip-duplicate
+
+      - name: Self-hosted Renovate
+        uses: renovatebot/github-action@v31.62.0
+        with:
+          configurationFile: .github/renovate.json
+          token: ${{ secrets.GH_PACKAGES_PAT }}
