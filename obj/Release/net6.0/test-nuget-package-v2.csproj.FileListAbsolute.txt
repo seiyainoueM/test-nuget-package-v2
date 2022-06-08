@@ -1,0 +1,12 @@
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/bin/Release/net6.0/test-nuget-package-v2.deps.json
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/bin/Release/net6.0/test-nuget-package-v2.dll
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/bin/Release/net6.0/test-nuget-package-v2.pdb
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.csproj.AssemblyReference.cache
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.AssemblyInfoInputs.cache
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.AssemblyInfo.cs
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.csproj.CoreCompileInputs.cache
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.dll
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/refint/test-nuget-package-v2.dll
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/test-nuget-package-v2.pdb
+/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/Release/net6.0/ref/test-nuget-package-v2.dll

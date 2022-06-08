@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>test_nuget_package_v2</id>
+    <version>1.0.0</version>
+    <authors>test_inoue</authors>
+    <description>Hello world!!!!!!</description>
+    <repository url="https://github.com/seiyainoueM/test-nuget-package-v2" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/bin/Release/net6.0/test-nuget-package-v2.dll" target="lib/net6.0/test-nuget-package-v2.dll" />
+  </files>
+</package>

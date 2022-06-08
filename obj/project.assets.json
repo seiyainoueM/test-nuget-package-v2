@@ -14,19 +14,20 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/test-nuget-package-v2.csproj",
-      "projectName": "test-nuget-package-v2",
+      "projectName": "test_nuget_package_v2",
       "projectPath": "/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/test-nuget-package-v2.csproj",
       "packagesPath": "/Users/inoueseiya/.nuget/packages/",
       "outputPath": "/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "/Users/inoueseiya/Documents/01_Microsoft/test_for_hands_on/test-nuget-package-v2/NuGet.Config",
         "/Users/inoueseiya/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://nuget.pkg.github.com/seiyainoueM/index.json": {}
       },
       "frameworks": {
         "net6.0": {
