@@ -29,4 +29,5 @@ jobs:
 
       - name: Publish to GitHub Packages
         run: |
+          dotnet nuget add source --username seiyainouem --password ${{ secrets.GITHUB_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/seiyainoueM/index.json"
           dotnet nuget push "bin/Release/*.nupkg" --api-key ${{secrets.GH_PACKAGES_PAT}} --source "github" --skip-duplicate
