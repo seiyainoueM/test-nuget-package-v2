@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>test_nuget_package_v2_seiyainoue_sample</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <Authors>test_inoue</Authors>
     <Company>testinoue_company</Company>
     <PackageDescription>Hello world!!!!!!</PackageDescription>
